@@ -1,3 +1,3 @@
-module github.com/deji/goreal
+module github.com/deoops-net/goreal
 
 go 1.17
